@@ -1,3 +1,8 @@
+<p align=center>
+  <img height=165 src="https://github-readme-stats.vercel.app/api?username=mgandreasen&theme=dark&show_icons=true" />
+  <img height=165 src="https://github-readme-streak-stats.herokuapp.com/?user=mgandreasen&theme=dark" />
+</p>
+
 ### Hi there 👋
 
 <!--
