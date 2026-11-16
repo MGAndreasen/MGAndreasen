@@ -1,17 +1,12 @@
 <p align=center>
-  <img height=165 src="https://github-readme-stats.vercel.app/api?username=mgandreasen&theme=dark&show_icons=true" />
   <img height=165 src="https://github-readme-streak-stats.herokuapp.com/?user=mgandreasen&theme=dark" />
 </p>
-<!--
-## My Magento1/OpenMage modules:
--->
 
-## Others:
-
-## Some old school projects:
-- [dmaa0916_3rd_Sem_Gr7](https://github.com/MGAndreasen/x_dmaa0916_3rd_Sem_Gr7)
-- [UCN-Datamatiker-Gr7](https://github.com/MGAndreasen/x_UCN-Datamatiker-Gr7)
-- [DM0916-Final-Project](https://github.com/MGAndreasen/x_DM0916-Final-Project)
+## Things i'am working on:
+- [AlrunAI](https://github.com/AlrunAI)
+- [MudArchive](https://github.com/MudArchive)
+- [VOXZEN](https://voxzen.eu) (Comming soon...)
+- [goDealHunt](https://godealhunt.com) (Comming soon...)
 
 ## Infomation:
 - 🔭 I’m currently working on a affiliate price compareson project/site
@@ -21,7 +16,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: my email
 - ⚡ Fun fact: I'am a short single viking from Denmark
-
-<!--
-- 😄 Pronouns: ...
--->
